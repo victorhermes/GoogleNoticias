@@ -14,7 +14,6 @@ import {
 } from "react-native";
 import { SearchBar } from "react-native-elements";
 import api from "~/services/api";
-import Post from "./Post";
 import Icon from "react-native-vector-icons/FontAwesome";
 import styles from "./styles";
 
